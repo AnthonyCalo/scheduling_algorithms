@@ -1,0 +1,54 @@
+[
+    {
+        "name": "A",
+        "cycles": 500
+    },
+    {
+        "name": "B",
+        "cycles": 400
+    },
+    {
+        "name": "C",
+        "cycles": 500
+    },
+    {
+        "name": "D",
+        "cycles": 700
+    },
+    {
+        "name": "E",
+        "cycles": 100
+    },
+    {
+        "name": "F",
+        "cycles": 250
+    },
+    {
+        "name": "G",
+        "cycles": 1100
+    },
+    {
+        "name": "H",
+        "cycles": 75
+    },
+    {
+        "name": "I",
+        "cycles": 350
+    },
+    {
+        "name": "J",
+        "cycles": 175
+    },
+    {
+        "name": "K",
+        "cycles": 700
+    },
+    {
+        "name": "L",
+        "cycles": 625
+    },
+    {
+        "name": "M",
+        "cycles": 475
+    }
+]
